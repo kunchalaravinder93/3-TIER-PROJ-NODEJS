@@ -6,7 +6,7 @@
 6. connect to front end server
 
 
----------------------------------- FrontEnd----------------------------------------
+---------------------------------- FrontEnd-----------------------------------------
 
 -------Step-1-------install dependencies ------
  create shell script file "ex:vi test.sh"
@@ -155,4 +155,5 @@ mysql -h book.rds.com -u admin -p<password> < test.sql
 
 27. now hit your frontend server public ip you will get response 
 28. add the books 
+
 
